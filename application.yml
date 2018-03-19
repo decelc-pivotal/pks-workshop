@@ -1,0 +1,79 @@
+--- 
+config: 
+  name: cjdname
+foo: bar
+fortune: 
+  messages: 
+    - "People are willing drive far for ice cream."
+    - "You learn from your mistakes... You will learn a lot today."
+hello: world
+
+workshop: 
+  contentURL: "https://pd-content.cfapps.io"
+  title: "Pivotal Cloud Foundry Workshop"
+  date: "March 6-8, 2018"
+  description: "This workshop will cover the ..."
+  customerLogo: ""
+  instructors: 
+    - 
+      name: "Jared Gordon"
+      title: "Platform Engineer"
+      email: jgordon@pivotal.io
+    - 
+      name: "Chris Decelles"
+      title: "Platform Engineer"
+      email: cdecelles@pivotal.io    
+  resources:
+    -
+      title: "Pivotal Network"
+      url: "https://network.pivotal.io/"
+    -
+      title: "Pivotal Documentation"
+      url: "http://docs.pivotal.io/"
+    -
+      title: "BOSH"
+      url: "http://bosh.io/"
+    -
+      title: "cf CLI Documentation"
+      url: "https://docs.pivotal.io/pivotalcf/cf-cli/getting-started.html"
+    -
+      title: "Manifest Documentation"
+      url: "https://docs.pivotal.io/pivotalcf/devguide/deploy-apps/manifest.html"
+    -
+      title: "Pivotal Web Services"
+      url: "https://run.pivotal.io/"
+  sessions:
+    - 
+      id: "pks"
+      name: "PKS Workshop"
+      description: "April 11, 2018"
+      topics:
+      -
+        id: "intro"
+        title: "Introductions"
+      -
+        id: "pd-cf"
+      -
+        id: "pd-cfa"
+      -
+        id: "pd-services"
+      -
+        id: "pd-osbapi"
+      -
+        id: "lunch"
+        title: "Lunch"
+      -
+        id: "pksheading"
+        title: "PKS Topics"
+      -
+        id: "pd-what-is-pks"
+      -
+        id: "pd-setup-pks-cluster"
+      -
+        id: "pd-kubernetes"
+      -
+        id: "pd-pks-app-deploy"
+      -
+        id: "pd-helm"
+      -
+        id: "pd-kibosh"
