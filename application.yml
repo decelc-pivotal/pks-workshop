@@ -59,25 +59,23 @@ workshop:
       -
         id: "break1"
         title: "10:30 - 10:45"
+        description: "Break"
       -
-        id: "bckgrd"
+        id: "nginx"
         title: "11:00 - 12:00"
-        description: "Demo of PKS<br/> deploy nginx and SuiteCRM and Elasticsearch elasticsearch, deploy and demo"
+        description: "Demo of PKS. Deploy and demo Nginx, SuiteCRM and Elasticsearch."
       -
         id: "lunch"
-        title: "Lunch"
+        title: "Lunch - 12:00 - 1:00"
       -
-        id: "pksheading"
-        title: "PKS Topics"
+        id: "pkscli"
+        title: "1:00 - 1:45"
+        description: "PKS CLI, Kubectl and Helm"
       -
-        id: "pd-what-is-pks"
+        id: "spark"
+        title: "1:45 - 3:00"
+        description: "Deploy and demo Spark and Wildfly."
       -
-        id: "pd-setup-pks-cluster"
-      -
-        id: "pd-kubernetes"
-      -
-        id: "pd-pks-app-deploy"
-      -
-        id: "pd-helm"
-      -
-        id: "pd-kibosh"
+        id: "hack"
+        title: "3:00 - ??:??"
+        description: "Interactive hackathon and Q&A"
