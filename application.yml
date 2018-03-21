@@ -50,15 +50,19 @@ workshop:
       topics:
       -
         id: "intro"
-        title: "Introductions"
+        title: "9:15 - 9:30"
+        description: "Introductions - Linh Nguyen"
       -
-        id: "pd-cf"
+        id: "bckgrd"
+        title: "9:30 - 10:30"
+        description: "Background info on PKS & PAS - Chris Saunders"
       -
-        id: "pd-cfa"
+        id: "break1"
+        title: "10:30 - 10:45"
       -
-        id: "pd-services"
-      -
-        id: "pd-osbapi"
+        id: "bckgrd"
+        title: "11:00 - 12:00"
+        description: "Demo of PKS<br/> deploy nginx and SuiteCRM and Elasticsearch elasticsearch, deploy and demo"
       -
         id: "lunch"
         title: "Lunch"
