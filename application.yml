@@ -63,7 +63,7 @@ workshop:
       -
         id: "nginx"
         title: "11:00 - 12:00"
-        description: "Demo of PKS. Deploy and demo Nginx, SuiteCRM and Elasticsearch."
+        description: "Demo of PKS. Deploy and demo Nginx, SuiteCRM and Elasticsearch"
       -
         id: "lunch"
         title: "Lunch - 12:00 - 1:00"
@@ -74,7 +74,7 @@ workshop:
       -
         id: "spark"
         title: "1:45 - 3:00"
-        description: "Deploy and demo Spark and Wildfly."
+        description: "Deploy and demo Spark and Wildfly"
       -
         id: "hack"
         title: "3:00 - ??:??"
