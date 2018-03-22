@@ -74,7 +74,7 @@ workshop:
         id: "pd-setup-pks-cluster"
       -
         id: "pd-pks-app-deploy"
-        description: "PKS Application Deployment & kubectl"
+        title: "PKS Application Deployment & kubectl"
       -
         id: "pd-helm"
       -
