@@ -70,11 +70,11 @@ workshop:
       -
         id: "pkscli"
         title: "1:00 - 1:45"
-        description: "PKS CLI, Kubectl and Helm"
       -
         id: "pd-setup-pks-cluster"
       -
         id: "pd-pks-app-deploy"
+        description: "Kubectl & PKS Application Deployment"
       -
         id: "pd-helm"
       -
