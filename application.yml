@@ -72,6 +72,12 @@ workshop:
         title: "1:00 - 1:45"
         description: "PKS CLI, Kubectl and Helm"
       -
+        id: "pd-setup-pks-cluster"
+      -
+        id: "pd-pks-app-deploy"
+      -
+        id: "pd-helm"
+      -
         id: "spark"
         title: "1:45 - 3:00"
         description: "Deploy and demo Spark and Wildfly"
