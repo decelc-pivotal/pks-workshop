@@ -72,7 +72,7 @@ workshop:
         id: "afternoon-demo"
         title: "1:00 - 1:45"
       -
-        id: "pks-afternoon-demo"
+        id: "pks-workshop-afternoon"
       -
         id: "spark"
         title: "1:45 - 3:00"
