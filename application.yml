@@ -69,8 +69,10 @@ workshop:
         id: "lunch"
         title: "Lunch - 12:00 - 1:00"
       -
-        id: "pks-afternoon-morning"
+        id: "afternoon-demo"
         title: "1:00 - 1:45"
+      -
+        id: "pks-afternoon-morning"
       -
         id: "spark"
         title: "1:45 - 3:00"
