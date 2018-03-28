@@ -61,22 +61,14 @@ workshop:
         title: "10:30 - 10:45"
         description: "Break"
       -
-        id: "nginx"
+        id: "pks-workshop-morning"
         title: "11:00 - 12:00"
-        description: "Demo of PKS. Deploy and demo Nginx, SuiteCRM and Elasticsearch"
       -
         id: "lunch"
         title: "Lunch - 12:00 - 1:00"
       -
-        id: "pkscli"
+        id: "pks-afternoon-morning"
         title: "1:00 - 1:45"
-      -
-        id: "pd-setup-pks-cluster"
-      -
-        id: "pd-pks-app-deploy"
-        title: "PKS Application Deployment & kubectl"
-      -
-        id: "pd-helm"
       -
         id: "spark"
         title: "1:45 - 3:00"
