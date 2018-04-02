@@ -82,9 +82,7 @@ workshop:
       -
         id: "afternoon-demo"
         title: "1:45 - 3:00" 
-      -
-        id: "suitecrm-spark-wildfly"
-        title: "Demos - Jared & Chris D."
+        description: "Jared & Chris D."
       -
         id: "pks-suitecrm-lab"
       -
