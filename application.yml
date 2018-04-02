@@ -46,7 +46,7 @@ workshop:
     - 
       id: "pks"
       name: "PKS Workshop"
-      description: "April 11, 2018"
+      description: "April 12, 2018"
       topics:
       -
         id: "intro"
