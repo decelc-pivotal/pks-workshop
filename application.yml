@@ -74,15 +74,17 @@ workshop:
         id: "lunch"
         title: "Lunch - 12:00 - 1:00"
       -
-        id: "afternoon-demo"
+        id: "afternoon-talk"
         title: "1:00 - 1:45"
       -
         id: "pks-workshop-afternoon"
         description: "Jared & Chris D."
       -
-        id: "spark"
-        title: "1:45 - 3:00"
-        description: "Jared & Chris D."  
+        id: "afternoon-demo"
+        title: "1:45 - 3:00" 
+      -
+        id: "suitecrm-spark-wildfly"
+        title: "Demos - Jared & Chris D."
       -
         id: "pks-suitecrm-lab"
       -
