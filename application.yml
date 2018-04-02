@@ -63,20 +63,32 @@ workshop:
       -
         id: "morning-demo"
         title: "11:00 - 12:00"
+        description: "Jared & Chris D."
       -
         id: "pks-workshop-morning"
+      -
+        id: "pks-nginx-lab"
+      -
+        id: "pks-elastic-lab"
       -
         id: "lunch"
         title: "Lunch - 12:00 - 1:00"
       -
         id: "afternoon-demo"
         title: "1:00 - 1:45"
+        description: "Jared & Chris D."
       -
         id: "pks-workshop-afternoon"
       -
         id: "spark"
         title: "1:45 - 3:00"
-        description: "Deploy and demo Spark and Wildfly"
+        description: "Jared & Chris D."  
+      -
+        id: "pks-suitecrm-lab"
+      -
+        id: "pks-spark-lab"
+      -
+        id: "pks-wildfly-lab"
       -
         id: "hack"
         title: "3:00 - ??:??"
