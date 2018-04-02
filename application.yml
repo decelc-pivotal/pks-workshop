@@ -50,12 +50,8 @@ workshop:
       topics:
       -
         id: "intro"
-        title: "9:15 - 9:30"
-        description: "Introductions - Linh Nguyen"
-      -
-        id: "bckgrd"
-        title: "9:30 - 10:30"
-        description: "Background info on PKS & PAS - Chris Saunders"
+        title: "9:15 - 9:45"
+        description: "Introductions / PKS - Linh Nguyen"
       -
         id: "break1"
         title: "10:30 - 10:45"
