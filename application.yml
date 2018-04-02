@@ -77,7 +77,7 @@ workshop:
         id: "afternoon-talk"
         title: "1:00 - 1:45"
         description: "PKS Part II - Jared & Chris D."
-        slidesURL: "https://pd-content.cfapps.io/pe/PKS_workshop_afternoon.pdf"
+        slideURL: "https://pd-content.cfapps.io/pe/PKS_workshop_afternoon.pdf"
       -
         id: "pks-workshop-afternoon"
         title: "PKS Part II - Jared & Chris D."
