@@ -63,9 +63,9 @@ workshop:
       -
         id: "morning-demo"
         title: "11:00 - 12:00"
-        description: "Jared & Chris D."
       -
         id: "pks-workshop-morning"
+        description: "Jared & Chris D."
       -
         id: "pks-nginx-lab"
       -
@@ -76,9 +76,9 @@ workshop:
       -
         id: "afternoon-demo"
         title: "1:00 - 1:45"
-        description: "Jared & Chris D."
       -
         id: "pks-workshop-afternoon"
+        description: "Jared & Chris D."
       -
         id: "spark"
         title: "1:45 - 3:00"
