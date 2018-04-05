@@ -87,7 +87,7 @@ workshop:
         id: "pks-wildfly-lab"
       -
         id: "hack"
-        title: "3:00 - ??:??"
+        title: "3:00 - ?"
         description: "Interactive Hackathon and Q&A - Linh, Jared & Chris D."
       -
         id: "pks-workshop-hackathon"
