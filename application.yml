@@ -50,15 +50,15 @@ workshop:
       topics:
       -
         id: "intro"
-        title: "9:15 - 9:45"
+        title: "9:15 - 10:00"
         description: "Introductions / PKS - Linh Nguyen"
       -
         id: "break1"
-        title: "9:45 - 10:00"
+        title: "10:00 - 10:15"
         description: "Break"
       -
         id: "morning-demo"
-        title: "10:15 - 12:00"
+        title: "10:30 - 12:00"
       -
         id: "pks-workshop-morning"
         title: "PKS Part I - Jared & Chris D."
