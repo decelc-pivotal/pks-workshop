@@ -91,3 +91,5 @@ workshop:
         description: "Hackathon and Q&A - Linh, Jared & Chris D."
       -
         id: "pks-workshop-hackathon"
+      - 
+        id: "00-introduction"
